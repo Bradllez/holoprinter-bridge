@@ -23,4 +23,6 @@ This repository holds the Bridge's releases. Download the latest version from [R
 
 ## Privacy
 
-The Bridge talks to your printer and your headset on your local network only. Your printer's access code is kept in your Mac's Keychain and never leaves the Mac.
+The Bridge talks to your printer and your headset on your local network only. Your printer's access code is kept in your Mac's Keychain and is only ever sent to your printer. Neither app collects your data: see the [privacy policy](PRIVACY.md).
+
+HoloPrinter and HoloPrinter Bridge are independent apps and are not affiliated with or endorsed by Bambu Lab.
