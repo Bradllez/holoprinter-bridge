@@ -6,7 +6,7 @@ HoloPrinter Bridge is the Mac companion to **HoloPrinter** for Apple Vision Pro.
 - It slices the models you set up on the headset with Bambu Studio's command line, on your Mac.
 - It starts the prints you confirm on the headset (H2D printers).
 
-This repository holds the Bridge's releases. Download the latest version from [Releases](../../releases). There is no release yet.
+This repository holds the Bridge's releases. Download the latest version from [Releases](../../releases/latest): open the disk image and drag HoloPrinter Bridge to Applications. Each release is signed with a Developer ID and notarized by Apple.
 
 ## What you need
 
